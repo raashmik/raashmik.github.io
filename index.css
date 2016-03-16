@@ -1,0 +1,13 @@
+.kosbiesface{
+    background-color: lightblue;
+    border-color: darkblue;
+    border-style: solid;
+    padding:15px;
+    margin:13px;
+}
+
+#mywebsite{
+    font-size: 30px;
+    color: green;
+    font-weight: 800;
+}
